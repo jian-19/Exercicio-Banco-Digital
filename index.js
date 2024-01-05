@@ -1,4 +1,4 @@
-const App = require("./App")
+const App = require("./entities/App.js")
 
 App.createUser("isaac@email.com", "Isaac Pontes")
 App.createUser("lucas@email.com", "Lucas Queiroga")
